@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: employee_attrition
+Version: 1.0.0
+Summary:  Employee attrition prdiction model
+Author: Munish Singh Danu
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: pandas==2.2.2
+Requires-Dist: numpy==1.26.4
+Requires-Dist: joblib==1.4.2
+Requires-Dist: imbalanced-learn==0.12.3
+Requires-Dist: scikit-learn==1.5.1
+Requires-Dist: scipy==1.14.0
+Requires-Dist: pytest==8.3.2
+Requires-Dist: setuptools==69.5.1
+Requires-Dist: wheel==0.43.0
+Requires-Dist: fastapi==0.103.0
+Requires-Dist: pydantic==2.4.2
+Requires-Dist: uvicorn==0.23.2
+Requires-Dist: gunicorn==21.2.0
+
+
