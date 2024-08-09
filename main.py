@@ -64,7 +64,7 @@ class EmployeeAttrition(BaseModel):
 
 @app.get('/')
 def index():
-    return {'message': 'welcome to loan prediction app using API - CI CD Jenkins v2'}
+    return {'message': 'welcome to loan prediction app using API - CI CD Jenkins v1'}
 
 @app.post('/prediction_api')
 def predict(attrition_detail: EmployeeAttrition):
